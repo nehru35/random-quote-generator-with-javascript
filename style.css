@@ -16,8 +16,8 @@ body {
 }
 
 .wrapper {
-    width: 70%;
-    max-width: 1000px;
+    width: 50%;
+    max-width: 800px;
     background-color: #fff;
     border-radius: 15px;
     padding: 30px 30px 25px;
